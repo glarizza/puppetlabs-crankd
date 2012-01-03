@@ -1,15 +1,23 @@
-# Class: crankd
+# == Class: crankd
 #
-# This module manages crankd, one of the binaries from the
-#   [Pymacadmin suite.](https://github.com/acdha/pymacadmin)
+#  This module manages crankd, one of the binaries from the
+#    [Pymacadmin suite.](https://github.com/acdha/pymacadmin)
 #
-# Parameters:
+# == Parameters:
 #
-# Actions:
+#  None
 #
-# Requires:
+# == Examples
 #
-# Sample Usage:
+#  include crankd
+#
+# == Authors
+#
+#  Gary Larizza <gary@puppetlabs.com>
+#
+# == Copyright
+#
+#  Copyright 2012 Puppet Labs
 #
 class crankd {
 

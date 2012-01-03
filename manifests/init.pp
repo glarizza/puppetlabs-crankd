@@ -9,11 +9,11 @@
 #
 # == Examples
 #
-#  include crankd
+#    include crankd
 #
 # == Authors
 #
-#  Gary Larizza <gary@puppetlabs.com>
+#  Puppet Labs
 #
 # == Copyright
 #
